@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Fullstack Developer, Student
+
 
 <!--
 **VictorAmpir/VictorAmpir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
